@@ -10,3 +10,5 @@ function fuzzyMatch(drivers, string) {
     return name.toLowerCase().startsWith(string.toLowerCase())
   })
 }
+
+function matchName
